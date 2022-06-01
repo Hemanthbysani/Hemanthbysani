@@ -1,10 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hemanth+Bysani....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Hemanth+Bysani....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in my 2nd year
 <a href="https://github.com/Hemanthbysani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemanthbysani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hemanth's github stats" /></a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthbysani&border=61dafb&hide_border=true" alt="Hemanth Bysani
 ## About me 
 20 year old Homo Sapien from the beautiful city of Bangalore, Techgeek who is persuing his interests as a Computer Science Engineer.
 ## Roles and Responsibilities
