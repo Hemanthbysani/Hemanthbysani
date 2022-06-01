@@ -1,19 +1,8 @@
 # Hi, I'm Hemanth Bysani!
 I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in my 2nd year
+<a href="https://github.com/Hemanthbysani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemanthbysani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hemanth's github stats" /></a>
 ## About me 
 20 year old Homo Sapien from the beautiful city of Bangalore, Techgeek who is persuing his interests as a Computer Science Engineer.
-### Hobbies
-- Photography
-- Travelling
-- Swimming
-- Hiking/Trekking
-- Playing Basketball
-- Reading Thriller/Sci-Fi novels
-- Adventure seeker
-- Endurance sports
-- Cooking
-- Solving puzzles such as rubiks cube
-- Annoying people
 ## Roles and Responsibilities
 Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore [Amrita](https://amrita.edu/)
 Binary Exploitation Lead at c0d3_h4cki05_ aka Bi0sBLR, id="c3r3a1_ki113r" [c0d3_h4cki05_](https://ctftime.org/team/72702)
