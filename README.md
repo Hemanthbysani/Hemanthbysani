@@ -1,4 +1,8 @@
-# Hi, I'm Hemanth Bysani!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hemanth+Bysani....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in my 2nd year
 <a href="https://github.com/Hemanthbysani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemanthbysani&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hemanth's github stats" /></a>
 ## About me 
