@@ -13,9 +13,10 @@ I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in m
 20 year old Homo Sapien from the beautiful city of Bangalore, Techgeek who is persuing his interests as a Computer Science Engineer.
 ## Roles and Responsibilities
 Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore [Amrita](https://amrita.edu/)
-Binary Exploitation Lead at c0d3_h4cki05_ aka Bi0sBLR, id="c3r3a1_ki113r" [c0d3_h4cki05_](https://ctftime.org/team/72702)
-Cybersecurity Lead and Executive of FACE Club ASEB [FACE](https://face-amrita.firebaseapp.com/)
-Co-Secretary of CSI chapter ASEB
+Binary Exploitation Lead at c0d3_h4cki05_ aka Bi0sBLR, id="c3r3a1_ki113r" [c0d3_h4cki05_](https://ctftime.org/team/72702)<2020-22 July>
+Geeks for Geeks Student Chapter Lead <2022-current>
+Cybersecurity Lead and Executive of FACE Club ASEB [FACE](https://face-amrita.firebaseapp.com/)<2021-current>
+Co-Secretary of CSI chapter ASEB <2021-22 May>
 ## I'm currently learning and working on
 - Cybersecurity###Have decided to take a break on Cybersecurity and focus on AI/ML
   - Working on {ROP,Shell,heap} exploitation present in the domain Binary Exploitation
