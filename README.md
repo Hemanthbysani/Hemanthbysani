@@ -17,13 +17,15 @@ Binary Exploitation Lead at c0d3_h4cki05_ aka Bi0sBLR, id="c3r3a1_ki113r" [c0d3_
 Cybersecurity Lead and Executive of FACE Club ASEB [FACE](https://face-amrita.firebaseapp.com/)
 Co-Secretary of CSI chapter ASEB
 ## I'm currently learning and working on
-- Cybersecurity
+- Cybersecurity###Have decided to take a break on Cybersecurity and focus on AI/ML
   - Working on {ROP,Shell,heap} exploitation present in the domain Binary Exploitation
   - Working on Web and Crypto exploits as well
 - Artificial Intelligence and Machine Learning
   - Learning the math behind the various Classifiers, Regressors and algorithms.
   - Implementing real world projects using AI/ML. {Long term}
   - Optimizing various algorithms for our use cases.
+  - Learning NLP, Computer vision and completing the relevant courses.
+  - Trying to do a data science course as well(not looking good)
 - Blockchain and Cryptocurrency
   - Learning various consensus methods for a special project
   - Learning Smart Contracts and how to implement them using Solidity Framework based on the Etherum Protocol {Long term}
