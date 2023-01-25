@@ -12,11 +12,11 @@ I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in m
 ## About me 
 21 year old Homo Sapien from the beautiful city of Bangalore, Techgeek who is persuing his interests as a Computer Science Engineer.
 ## Roles and Responsibilities
-Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore [Amrita](https://amrita.edu/)
-Geeks for Geeks Student Chapter Lead <2022-current>
-Vice President at FACE Club ASEB [FACE](https://face-amrita.firebaseapp.com/)<2021-current>
-Ex-Binary Exploitation Lead at c0d3_h4cki05_ aka Bi0sBLR, id="c3r3a1_ki113r" [c0d3_h4cki05_](https://ctftime.org/team/72702)<2020-2022 July>
-Ex-Co-Secretary of CSI chapter ASEB <2021-2022 May>
+**Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore** [Amrita](https://amrita.edu/)
+**Geeks for Geeks Student Chapter Lead** <2022-current>
+**Vice President** at FACE Club ASEB [FACE](https://face-amrita.firebaseapp.com/)<2021-current>
+**Ex-Binary Exploitation** Lead at c0d3_h4cki05_ aka Bi0sBLR, id="c3r3a1_ki113r" [c0d3_h4cki05_](https://ctftime.org/team/72702)<2020-2022 July>
+**Ex-Co-Secretary** of CSI chapter ASEB <2021-2022 May>
 ## I'm currently learning and working on
 - Artificial Intelligence and Machine Learning
   - Learning the math behind the various Classifiers, Regressors and RNN's.
