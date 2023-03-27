@@ -4,12 +4,18 @@
   </a>
 </h1>
 
-I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in my 3rd year
+CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in my 3rd year
 
 <a href="https://github.com/Hemanthbysani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemanthbysani&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Hemanth's github stats" /></a>
 <a href="https://github.com/Hemanthbysani/github-readme-streak-stats" title="Go to Source"><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthbysani&theme=react&border=61dafb&hide_border=true" alt="Hemanth Bysani" /></a>
 
 ![](https://komarev.com/ghpvc/?username=hemanthbysani&color=dc143c)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hemanth-bysani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hemanth-Bysani" height="30" width="40" /></a>
+</p>
+
 
 ## About me 
 21 year old Homo Sapien from the beautiful city of Bangalore, Techgeek who is persuing his interests as a Computer Science Engineer.
@@ -49,7 +55,4 @@ I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in m
 ## I'm looking to collaborate on
  - Any Hackathon
  - Any Project in the above mentioned domains
-## You can reach me on
- - [Instagram](https://www.instagram.com/hemanth_bysani/)
- - WhatsApp ```+91 8618107187```
- - Gmail ```hemanthbysani2002@gmail.com```
+
