@@ -10,8 +10,10 @@ I'm a CSE Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore and currently in m
 <a href="https://github.com/Hemanthbysani/github-readme-streak-stats" title="Go to Source"><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthbysani&theme=react&border=61dafb&hide_border=true" alt="Hemanth Bysani" /></a>
 
 ![](https://komarev.com/ghpvc/?username=hemanthbysani&color=dc143c)
+
 ## About me 
 21 year old Homo Sapien from the beautiful city of Bangalore, Techgeek who is persuing his interests as a Computer Science Engineer.
+
 ## Roles and Responsibilities
 **Undergrad at Amrita Vishwa Vidhyapeetham, Bangalore** [Amrita](https://amrita.edu/)
 **Geeks for Geeks Student Chapter Lead** <2022-current>
